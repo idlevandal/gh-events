@@ -2,6 +2,7 @@ import { string } from 'prop-types';
 
 import './HelpBox.css';
 // Add comment
+// Add another comment
 
 function HelpBox({ title, text }) {
   return (
